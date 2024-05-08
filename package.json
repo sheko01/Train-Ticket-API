@@ -1,14 +1,14 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "Learning node, express and mongoDB",
+  "description": "train ticket api for flutter app",
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "sheko",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
